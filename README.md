@@ -1,4 +1,4 @@
-# Hi there, I'm Cao Vủ 👋
+# Hi there, I'm Jayce Vu 👋
 
 I'm a mobile developer with a passion for building intuitive and powerful applications. My work focuses on Android development, specifically with Kotlin and Jetpack Compose. I enjoy solving complex technical problems, collaborating on innovative projects, and constantly pushing myself to learn new skills.
 
@@ -26,13 +26,13 @@ I'm a mobile developer with a passion for building intuitive and powerful applic
 
 Check out some of my [pinned projects](https://github.com/your-username?tab=repositories) to see my work with Phoenix Pairing, Retrofit, and custom Android components.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayce-vu&show_icons=true&hide=prs&theme=radical)](https://github.com/jayce-vu)
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [linkedin.com/in/vucaoit](https://linkedin.com/in/vucaoit)
+- Email: [jayce.it.work@gmail.com](mailto:jayce.it.work@gmail.com)
 
 Looking forward to connecting and building great things together! 😊
